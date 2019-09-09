@@ -8,9 +8,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1QaeXVpVA6R0fHZ4XXs1MOO02kn" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/PrivateRepo/Getting-Started-Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PrivateRepo/Getting-Started-Python/PythonCourse/venv/Scripts/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prane\PrivateRepo\Getting-Started-Python" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -24,7 +37,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.helloworld (1)">
+    <configuration name="helloworld (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PrivateRepo/Getting-Started-Python/PythonCourse" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PrivateRepo/Getting-Started-Python/PythonCourse/helloworld.py" />
+      <option name="PARAMETERS" value="Pratik" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +80,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.helloworld (1)" />
+      <item itemvalue="Python.helloworld" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.helloworld" />
